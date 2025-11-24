@@ -40,14 +40,3 @@ publicaciones
 comentarios
 ✔ 1. Inserción de documentos
 Los documentos fueron insertados mediante la opción Insert Document, utilizando JSON puro.
-Ejemplo:
-
-{
-  "id": "usuario101",
-  "nombre": "Nuevo Usuario",
-  "email": "nuevo@example.com",
-  "fecha_registro": "2024-04-01",
-  "rol": "usuario",
-  "intereses": ["salud", "tecnologia"],
-  "estado": "activo"
-}
